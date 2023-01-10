@@ -1,6 +1,6 @@
 # Multi_class_Text_Classification
  
- Model’s architecture for this project:
+ Model’s architecture for this project:.
  
  ![model](https://user-images.githubusercontent.com/88734356/211496094-51896adc-3cbe-4ec7-837c-22d2f31f6683.png)
  
